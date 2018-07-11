@@ -1,2 +1,2 @@
 # Ello-World
-Testing this stuff out 
+Learning github can be a fun thing to do
